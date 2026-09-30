@@ -41,5 +41,5 @@
 | :--- | :--- | :--- |
 | **[SkillGap](https://github.com/MelanieLLY/SkillGap)** | AI-powered profile matching engine with automated **LLM-as-a-Judge regression testing**, achieving 97% backend test coverage. | `FastAPI`, `Python`, `SQLAlchemy`, `Claude API`, `CI/CD` |
 | **[LearnMateAI](https://github.com/MelanieLLY/LearnMateAI)** | Inclusive educational SaaS with **json-repair defensive deserialization** and 9-stage CI/CD security pipeline. | `React`, `FastAPI`, `Playwright`, `Prompt Governance` |
-| 🎮 **[MOBA Matchmaking](https://github.com/MelanieLLY/MOBA-team-matchmaking)** | 5v5 team matchmaking optimization engine modeling **Max-Flow lane allocation** & **NP-hard balance tradeoffs**. | `Python`, `Algorithms`, `Combinatorial Optimization` |
+| **[MOBA Matchmaking](https://github.com/MelanieLLY/MOBA-team-matchmaking)** | 5v5 team matchmaking optimization engine modeling **Max-Flow lane allocation** & **NP-hard balance tradeoffs**. | `Python`, `Algorithms`, `Combinatorial Optimization` |
 | **[Prompt Battle Ground](https://github.com/MelanieLLY/prompt-battle-ground)** | Systematic experimentation platform for prompt engineering benchmarking and adversarial evaluation. | `TypeScript`, `Node.js`, `LLM APIs` |
