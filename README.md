@@ -2,10 +2,11 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/liuyiy/)
+[![Website](https://img.shields.io/badge/Website-liuyiyang.dev-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white)](https://liuyiyang.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/liuyiy)
 [![Location](https://img.shields.io/badge/Location-San_Jose,_CA-38BDF8?style=for-the-badge&logo=google-maps&logoColor=white)](https://maps.google.com/?q=San+Jose,+CA)
 
-**Software Engineer & MSCS Student @ Northeastern University**  
+**Software Engineer · Recent M.S. CS Graduate @ Northeastern University**  
 *Building Type-Safe Backend Architectures, Cloud Microservices, and AI-Native Systems.*  
 *(Admitted to New York State Bar | M.A. in Translation & Localization Management)*
 
