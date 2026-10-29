@@ -1,4 +1,5 @@
 # Hi there, I'm Liuyi 👋
+goes by Melanie
 
 <div align="center">
 
@@ -37,6 +38,10 @@
 </p>
 
 ### Featured Engineering Projects
+Most of my recent work lives in private repos; case studies are at https://liuyiyang.dev
+- LexiFlow: AI-native legal document platform (FastAPI, React, Kafka, PostgreSQL)
+- Youmi Toolbox: full-stack AI productivity app my household uses daily (FastAPI, React/Next.js, Supabase)
+
 
 | Project | Highlights & Architecture | Tech Stack |
 | :--- | :--- | :--- |
