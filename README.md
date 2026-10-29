@@ -5,7 +5,7 @@ goes by Melanie
 
 [![Website](https://img.shields.io/badge/Website-liuyiyang.dev-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white)](https://liuyiyang.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/liuyiy)
-[![Location](https://img.shields.io/badge/Location-San_Jose,_CA-38BDF8?style=for-the-badge&logo=google-maps&logoColor=white)](https://maps.google.com/?q=San+Jose,+CA)
+[![Location](https://img.shields.io/badge/Location-Bay_Area-38BDF8?style=for-the-badge&logo=google-maps&logoColor=white)](https://maps.google.com/?q=San+Francisco+Bay+Area)
 
 **Software Engineer · Recent M.S. CS Graduate @ Northeastern University**  
 *Building Type-Safe Backend Architectures, Cloud Microservices, and AI-Native Systems.*  
@@ -16,7 +16,7 @@ goes by Melanie
 ### About Me
 
 - **Backend & Cloud**: Passionate about high-concurrency architectures, robust microservices, and asynchronous concurrency control using **Python, FastAPI, TypeScript, Node.js, and Google Cloud Platform (Cloud Run)**.
-- **AI Systems & Agents**: Architecting type-safe AI workflows with **OpenAI Structured Outputs (JSON Schema)**, **Antigravity Agentic Workflows (SubAgents)**, and **LLM-as-a-Judge automated evaluation pipelines**.
+- **AI Systems & Agents**: Architecting type-safe AI workflows with **OpenAI Structured Outputs (JSON Schema)**, **Claude Code & Antigravity agentic workflows (skills, subagents)**, and **LLM-as-a-Judge automated evaluation pipelines**.
 - **Cross-Discipline Rigor**: Legal background (LL.M., NY Bar) instills defensive programming habits, structured reasoning, and boundary safety. Localization background ensures global product sense (i18n) and multilingual pipeline design.
 - **Target**: Actively seeking **2026 Software Engineer (New Grad / Early Career)** opportunities.
 
@@ -39,12 +39,11 @@ goes by Melanie
 
 ### Featured Engineering Projects
 Most of my recent work lives in private repos; case studies are at https://liuyiyang.dev
-- LexiFlow: AI-native legal document platform (FastAPI, React, Kafka, PostgreSQL)
-- Youmi Toolbox: full-stack AI productivity app my household uses daily (FastAPI, React/Next.js, Supabase)
-
 
 | Project | Highlights & Architecture | Tech Stack |
 | :--- | :--- | :--- |
+| **[LexiFlow](https://liuyiyang.dev/projects/lexiflow)** *(private repo)* | AI-native legal document platform: contract review results come out as **native Word redlines**; the LLM only extracts facts while deadlines and damages are computed by deterministic code, and audit events flow to Kafka through a **transactional outbox** with hash-chained records. | `FastAPI`, `React`, `Kafka`, `PostgreSQL` |
+| **[Youmi Toolbox](https://liuyiyang.dev/projects/youmi-toolbox)** *(private repo)* | Full-stack AI productivity app my household uses daily: rule-based code finds free time slots, the LLM places tasks via **structured outputs**, and a validator checks for conflicts. | `FastAPI`, `React/Next.js`, `Supabase`, `OpenAI API` |
 | **[SkillGap](https://github.com/MelanieLLY/SkillGap)** | AI-powered profile matching engine with automated **LLM-as-a-Judge regression testing**, achieving 97% backend test coverage. | `FastAPI`, `Python`, `SQLAlchemy`, `Claude API`, `CI/CD` |
 | **[LearnMateAI](https://github.com/MelanieLLY/LearnMateAI)** | Inclusive educational SaaS with **json-repair defensive deserialization** and 9-stage CI/CD security pipeline. | `React`, `FastAPI`, `Playwright`, `Prompt Governance` |
 | **[MOBA Matchmaking](https://github.com/MelanieLLY/MOBA-team-matchmaking)** | 5v5 team matchmaking optimization engine modeling **Max-Flow lane allocation** & **NP-hard balance tradeoffs**. | `Python`, `Algorithms`, `Combinatorial Optimization` |
